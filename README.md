@@ -1,11 +1,10 @@
-# Student Management System
+# 🎓 Student Management System
 
 ## 📌 Project Description
 
-The Student Management System is a full-stack web application built using **Java Spring Boot, MySQL, HTML, CSS, and JavaScript**.  
-It allows users to manage student records such as adding, viewing, and deleting students.
+The Student Management System is a full-stack web application built using **Java Spring Boot, MySQL, HTML, CSS, and JavaScript**.
 
-This project demonstrates **REST API development, database integration, and frontend-backend communication**.
+This system allows users to manage student records such as adding, viewing, and deleting students. The project demonstrates **REST API development, database integration, and frontend-backend communication**.
 
 ---
 
@@ -16,6 +15,7 @@ This project demonstrates **REST API development, database integration, and fron
 - Delete Student
 - REST API Integration
 - MySQL Database Connectivity
+- Simple Web Interface
 
 ---
 
